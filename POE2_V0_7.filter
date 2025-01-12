@@ -1,5 +1,5 @@
 # POE2 Filter by Mrqip
-# Version 0.7
+# Version 0.8
 
 
 #==============================
@@ -173,7 +173,7 @@ Show # Currency STACKS
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 240 90 35 255
 	PlayEffect Yellow
-	MinimapIcon 0 Orange Circle
+	MinimapIcon 1 Orange Circle
 	
 Show # TIER 0
 	Class == "Stackable Currency"
